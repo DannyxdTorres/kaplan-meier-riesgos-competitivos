@@ -1,0 +1,5 @@
+entrada/
+elaborado/
+salida/
+__pycache__/
+*.pyc
